@@ -1,0 +1,13 @@
+@charset "UTF-8";
+mark{
+    background: linear-gradient(#fff 60%, #C0FDFB 0% )!important; 
+    font-weight: bold;
+}
+#news{
+    background-image: url(./images/IMG_1031.JPG);
+    height: 270px;
+    margin-bottom: 40px;
+}
+h1{
+    text-align: center;
+}

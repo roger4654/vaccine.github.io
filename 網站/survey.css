@@ -1,0 +1,28 @@
+@charset "UTF-8";
+.table1{
+   position: absolute;
+   top:80px;
+   left: 80px;
+}
+.table2{
+   position: absolute;
+   top:80px;
+   left:320px;
+}
+.table3{
+   position: absolute;
+   top:80px;
+   right:80px;
+}
+.table4{
+   position: absolute;
+   top: 450px;
+   left: 80px;
+   
+}
+.table5{
+   position: absolute;
+   top: 450px;
+   right: 80px;
+   bottom: 80px;
+}
